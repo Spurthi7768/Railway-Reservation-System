@@ -3,26 +3,6 @@ Object Oriented Programming Course Project
 
 Title: Railway Reservation System
 
-Group No: SY 10
-
-Div: CS-A
-
-Batch: B2
-
-Group Members:
-
-Name                      Roll No            GR No.
-
-Spurthi Bhat                32              11910396
-
-Rutuja Bhirud               33              11911053
-
-Vaishnavi Bhokare           34              11910503
-
-Ishaan Bhutada              37              11910147
-
-Aditya Chavan               48              11910852
-
 
 Description: Railway Reservation System is a project developed in C++ and has been implemented with the concepts of Encapsulation and
              Abstraction of Object Oriented programming. It has features such as booking tickets,canceling tickets,checking the information
